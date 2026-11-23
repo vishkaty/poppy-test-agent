@@ -1,0 +1,9 @@
+{
+  "client_id": "https://vishkaty.github.io/poppy-test-agent/agent.json",
+  "client_name": "Poppy agent conformance test identity",
+  "jwks_uri": "https://vishkaty.github.io/poppy-test-agent/jwks.json",
+  "redirect_uris": [
+    "https://vishkaty.github.io/poppy-test-agent/callback"
+  ],
+  "token_endpoint_auth_method": "private_key_jwt"
+}
