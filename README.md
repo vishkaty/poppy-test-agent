@@ -17,5 +17,6 @@ The checker itself is at https://github.com/vishkaty/poppy-agent-conformance, Ap
 checks a Personal Agent against published Personal Agent Protocol 1.0, which is the side the
 protocol authors own kit does not cover: their kit checks a Company.
 
-No verdict about anyone else software is published from that checker, and none will be. A report
-goes to the builder who asked for the run and nowhere else.
+No agent that checker grades is named, and no report from any run is published: a report goes to
+the builder who asked for the run and nowhere else. What its own README publishes is a count,
+offered as evidence about the instrument rather than about software anyone else wrote.
